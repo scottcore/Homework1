@@ -4,4 +4,4 @@ This is a refactoring of an existing website to standardize the code base and ma
 
 URL: https://scottcore.github.io/Homework1/
 
-[Screenshot] (./assets/images/ScottCoreGitHubHomework1.png)
+![Screenshot](./assets/images/ScottCoreGitHubHomework1.png)
